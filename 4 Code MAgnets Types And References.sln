@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 Code MAgnets Types And References", "4 Code MAgnets Types And References.csproj", "{06021ACE-5A4C-42C5-93AC-F28D62EB13BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06021ACE-5A4C-42C5-93AC-F28D62EB13BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06021ACE-5A4C-42C5-93AC-F28D62EB13BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06021ACE-5A4C-42C5-93AC-F28D62EB13BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06021ACE-5A4C-42C5-93AC-F28D62EB13BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE44F62-7A26-474D-B532-636FBFCC79A1}
+	EndGlobalSection
+EndGlobal
